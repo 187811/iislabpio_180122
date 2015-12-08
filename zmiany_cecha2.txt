@@ -1,0 +1,15 @@
+Zmiany wprowadzaj kolejno, zgodnie z punktami i opisem laboratorium, za ka¿dym testuj¹c i zatwierdzaj¹c je w repozytorium:
+
+1. Nag³ówek sekcji 2:
+Rozproszony system kontroli wersji.
+
+2. Treœæ sekcji 2:
+W rozproszonych systemach kontroli wersji (takich jak Git, Mercurial, Bazaar lub Darcs) klienci nie dostaj¹ dostêpu jedynie do najnowszych wersji plików ale w pe³ni kopiuj¹ ca³e repozytorium. Gdy jeden z serwerów, u¿ywanych przez te systemy do wspó³pracy, ulegnie awarii, repozytorium ka¿dego klienta mo¿e zostaæ po prostu skopiowane na ten serwer w celu przywrócenia go do pracy.
+
+
+3. Stopka sekcji 2:
+<a href="http://git-scm.com/book/pl/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji#Rozproszone-systemy-kontroli-wersji">Git - podrêcznik</a>
+
+    Status API Training Shop Blog About Pricing 
+
+    © 2015 GitHub, Inc. Terms Privacy Security Contact Help 
